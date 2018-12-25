@@ -19,3 +19,9 @@ spring-boot-2-basic-example/.gradle/buildOutputCleanup/outputFiles.bin
 spring-boot-2-basic-example/.gradle/vcs-1/gc.properties
 spring-boot-2-basic-example/.settings/org.eclipse.buildship.core.prefs
 spring-boot-2-basic-example/.settings/org.springframework.ide.eclipse.prefs
+eureka/.settings/org.eclipse.core.resources.prefs
+eureka/.settings/org.eclipse.jdt.core.prefs
+eureka/.settings/org.eclipse.m2e.core.prefs
+eureka/.settings/org.springframework.ide.eclipse.prefs
+eureka/target/classes/charles/lab/eureka/App.class
+eureka/target/test-classes/charles/lab/eureka/AppTest.class
