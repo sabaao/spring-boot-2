@@ -25,3 +25,10 @@ eureka/.settings/org.eclipse.m2e.core.prefs
 eureka/.settings/org.springframework.ide.eclipse.prefs
 eureka/target/classes/charles/lab/eureka/App.class
 eureka/target/test-classes/charles/lab/eureka/AppTest.class
+eureka-client/.settings/org.eclipse.core.resources.prefs
+eureka-client/.settings/org.eclipse.jdt.core.prefs
+eureka-client/.settings/org.eclipse.m2e.core.prefs
+eureka-client/.settings/org.springframework.ide.eclipse.prefs
+eureka-client/target/classes/charles/lab/eureka/App.class
+eureka-client/target/classes/charles/lab/eureka/ServiceInstanceRestController.class
+eureka-client/target/test-classes/charles/lab/eureka/AppTest.class

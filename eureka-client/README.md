@@ -1,0 +1,1 @@
+http://192.168.31.195:8080/service-instances/eureka-client
